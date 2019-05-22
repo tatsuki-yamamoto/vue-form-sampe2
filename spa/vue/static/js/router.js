@@ -9,7 +9,7 @@ var CompleteArea = {
 }
 
 var router = new VueRouter({
-  mode: 'history',
+  // mode: 'history',
   base: '/spa/vue',
   routes: [{
       path: '/InputArea',
